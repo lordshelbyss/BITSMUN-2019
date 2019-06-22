@@ -1,0 +1,90 @@
+.flex-container{
+display:flex;
+flex-direction:row;
+flex-flow:row wrap;
+justify-content:center;
+height:
+
+
+
+}
+.flex-box{
+
+margin:10px;
+padding:10px;
+
+
+
+
+}
+.fleximage{
+
+margin:10px;
+padding:10px;
+height:350px;
+width:390px;
+border-radius:50%
+
+
+}
+
+.fleximage:hover{
+opacity:0.5;
+margin:10px;
+padding:10px;
+height:350px;
+width:390px;
+border-radius:50%
+
+
+}
+
+
+
+}
+
+.flex-head{
+position:relative;
+display:block;
+margin:auto;
+left:190px;;
+color:#FDFEFE;
+}
+
+.social-icon{
+
+width: 40px;
+    height: 40px;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: #838383;
+    border-radius: 50%;
+    border: 1px solid #333;
+
+}
+.facebook{
+margin-left:510px;
+
+
+}
+
+.social-icon:hover{
+
+background-color:blue;
+
+}
+#social-icon{
+
+text-align:center;
+line-height:45px;
+}
+.mediarow{
+
+
+
+
+}
