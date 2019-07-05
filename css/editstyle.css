@@ -1,3 +1,10 @@
+.navhead{
+
+font:Times New Roman;
+
+
+
+}
 .flex-container{
 display:flex;
 flex-direction:row;
@@ -66,11 +73,19 @@ width: 40px;
     border: 1px solid #333;
 
 }
+@media screen and (min-width: 992px){
 .facebook{
-margin-left:510px;
+margin-left:540px;
 
 
-}
+}}
+@media screen and (min-width: 768px){
+.facebook{
+margin-left:350px;
+
+
+}}
+
 
 .social-icon:hover{
 
@@ -85,6 +100,27 @@ line-height:45px;
 .mediarow{
 
 
+
+
+}
+.b_logo{
+display:block;
+margin:auto;
+
+
+
+}
+.comm{
+display:block;
+height:500px;
+width:400px;
+
+margin:auto;
+
+
+}
+#standout{
+text-align:center;
 
 
 }
