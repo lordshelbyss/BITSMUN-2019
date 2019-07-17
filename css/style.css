@@ -309,7 +309,7 @@ a {
         border-left: 1px solid #edf0f5;
         border-right: 1px solid #edf0f5;
         border-bottom: 1px solid #edf0f5;
-        padding: 10px 0;
+        padding: 5px 0;
         margin-top: 20px;
         margin-left: 0px;
         background: #fff;
@@ -348,7 +348,9 @@ a {
           min-width: 200px; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a {
             padding: 5px 20px;
-            display: block; }
+            display: block; 
+	    font-size:14px;
+	    }
             .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a:hover {
               color: #e3207b; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children > a:before {
