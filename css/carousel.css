@@ -1,7 +1,7 @@
 
 #carousel {
   position: relative;
-  height: 400px;
+  height: 370px;
   margin-top:200px;
   transform: translateY(-50%);
   overflow: hidden;
@@ -71,11 +71,4 @@
   width: 200px;
 }
 
-.buttons {
-  position: relative;
-  left: 98%;
 
-  transform: translateX(-50%);
-  bottom: 60px;
-
-}

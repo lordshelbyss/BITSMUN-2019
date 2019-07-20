@@ -42,7 +42,7 @@ $(document).keydown(function(e) {
     e.preventDefault();
 });
 
-$('#carousel div').click(function() {
+$('#carousel div').hover(function() {
   moveToSelected($(this));
 });
 
