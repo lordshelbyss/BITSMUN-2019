@@ -3,7 +3,7 @@
 	height: 112px;
 	text-align: center;
 	background: #222;
-	background-image: -webkit-linear-gradient(top, #222, #333, #333, #222); 
+	background-image: -webkit-linear-gradient(top, #222, #333, #333, #222);
 	background-image:    -moz-linear-gradient(top, #222, #333, #333, #222);
 	background-image:     -ms-linear-gradient(top, #222, #333, #333, #222);
 	background-image:      -o-linear-gradient(top, #222, #333, #333, #222);
@@ -21,7 +21,7 @@
 	width: 8px;
 	height: 65px;
 	background: #444;
-	background-image: -webkit-linear-gradient(top, #555, #444, #444, #555); 
+	background-image: -webkit-linear-gradient(top, #555, #444, #444, #555);
 	background-image:    -moz-linear-gradient(top, #555, #444, #444, #555);
 	background-image:     -ms-linear-gradient(top, #555, #444, #444, #555);
 	background-image:      -o-linear-gradient(top, #555, #444, #444, #555);
@@ -38,7 +38,7 @@
 	width: 8px;
 	height: 65px;
 	background: #444;
-	background-image: -webkit-linear-gradient(top, #555, #444, #444, #555); 
+	background-image: -webkit-linear-gradient(top, #555, #444, #444, #555);
 	background-image:    -moz-linear-gradient(top, #555, #444, #444, #555);
 	background-image:     -ms-linear-gradient(top, #555, #444, #444, #555);
 	background-image:      -o-linear-gradient(top, #555, #444, #444, #555);
@@ -62,7 +62,7 @@
 	text-align: center;
 	color: #111;
 	background-color: #ddd;
-	background-image: -webkit-linear-gradient(top, #bbb, #eee); 
+	background-image: -webkit-linear-gradient(top, #bbb, #eee);
 	background-image:    -moz-linear-gradient(top, #bbb, #eee);
 	background-image:     -ms-linear-gradient(top, #bbb, #eee);
 	background-image:      -o-linear-gradient(top, #bbb, #eee);
@@ -96,6 +96,13 @@
 	display: block;
 	position: absolute;
 	top: 48%; left: 0;
+}
+
+.timerp {
+	text-align: center;
+	font-size: 100px;
+	margin-top: 0px;
+	color: black;
 }
 
 #countdown .labels{

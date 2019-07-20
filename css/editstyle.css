@@ -11,10 +11,19 @@ flex-direction:row;
 flex-flow:row wrap;
 justify-content:center;
 height:
-
-
-
 }
+
+.blinking{
+    animation:blinkingText 0.4s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    50%{    color: transparent; }
+    100%{   color: #000;    }
+}
+
+
+
 .flex-box{
 
 margin:10px;
@@ -33,7 +42,7 @@ margin:auto;
 margin:10px;
 padding:10px;
 height:350px;
-width:390px;
+width:350px;
 border-radius:50%
 
 
@@ -147,5 +156,3 @@ font-family: 'Berkshire Swash', cursive;
 
 
 }
-
-
