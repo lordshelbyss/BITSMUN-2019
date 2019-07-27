@@ -348,7 +348,7 @@ a {
           min-width: 200px; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a {
             padding: 5px 20px;
-            display: block; 
+            display: block;
 	    font-size:14px;
 	    }
             .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a:hover {
@@ -507,9 +507,16 @@ a {
 
 /* Blocks */
 .site-blocks-cover {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: top; }
+
+  .site-blocks-cover1 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top; }
+
+
   .site-blocks-cover.overlay {
     position: relative; }
     .site-blocks-cover.overlay:before {

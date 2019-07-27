@@ -61,7 +61,7 @@
 	font: bold 48px 'Droid Sans', Arial, sans-serif;
 	text-align: center;
 	color: #111;
-	background-color: #ECE937;
+	background-color: #ddd;
 	background-image: -webkit-linear-gradient(top, #bbb, #eee);
 	background-image:    -moz-linear-gradient(top, #bbb, #eee);
 	background-image:     -ms-linear-gradient(top, #bbb, #eee);
@@ -116,8 +116,8 @@
 
 #countdown .labels li{
 	width: 102px;
-	font: bold 22px 'Droid Sans', Arial, sans-serif;
-	color: #F61D07;
+	font: bold 15px 'Droid Sans', Arial, sans-serif;
+	color: #E0360D;
 	text-shadow: 1px 1px 0px #000;
 	text-align: center;
 	text-transform: uppercase;
