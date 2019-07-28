@@ -117,10 +117,12 @@ line-height:45px;
 
 }
 .b_logo{
+
+
+max-width: 100%;
+height: auto;
 display:block;
 margin:auto;
-
-
 
 }
 .comm{
@@ -156,3 +158,15 @@ font-family: 'Berkshire Swash', cursive;
 
 
 }
+@media only screen and (max-width: 600px) {
+#bg{
+
+height:200px;
+
+
+}
+
+
+
+} 
+
